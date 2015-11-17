@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Acronym
+
+  Created by Sairam  on 11/16/15.
+ 
+*/
+
+
+"MeaningsSubtitleText" = "Used from %ld with %ld occurrances";
+"HeaderText" = "Results for \"%@\"";
+"NoResultsTitle" = "No results";
+"NoResultsMessage" = "Oops..!! We couldn't find any results for \"%@\". Please try different text.";
+"VariationsHeaderText" = "Variations of \"%@\"";
+"NoVariationsLabelText" = "We couldn't find any variations for \"%@\"";
